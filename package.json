@@ -6,7 +6,7 @@
     "gh-pages": "^1.1.0",
     "react-scripts": "1.1.1"
   },
-  "homepage": "https://amitayh.github.io/no-redux/yarn add --dev gh-pages",
+  "homepage": "https://amitayh.github.io/no-redux/",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
